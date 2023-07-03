@@ -868,9 +868,6 @@
   // "auth.errors.invalid-user": "Invalid email address or password.",
   "auth.errors.invalid-user": "Endereço de email ou senha inválidos.",
 
-  "search.browse.item-back": "Back to Results",
-  "search.browse.item-back": "Voltar para resultados",
-
   // "auth.messages.expired": "Your session has expired. Please log in again.",
   "auth.messages.expired": "Sua sessão expirou. Por favor entre novamente.",
 
@@ -1911,11 +1908,6 @@
 
   // "dso.name.untitled": "Untitled",
   "dso.name.untitled": "Sem título",
-
-  //"dso-selector.create.community.or-divider": "or",
-  "dso-selector.create.community.or-divider": "ou",
-
-
 
   // "dso-selector.create.collection.head": "New collection",
   "dso-selector.create.collection.head": "Nova coleção",
@@ -3670,9 +3662,6 @@
   // "logout.title": "Logout",
   "logout.title": "Sair",
 
-  // "menu.section.system-wide-alert": "System-wide Alert",
-  "menu.section.system-wide-alert": "Alerta geral do sistema",
-
   // "menu.header.admin": "Management",
   "menu.header.admin": "Administração",
 
@@ -4033,10 +4022,8 @@
 
   // "mydspace.view-btn": "View",
   "mydspace.view-btn": "Ver",
-
   //"nav.subscriptions": "Subscriptions",
   "nav.subscriptions": "Assinaturas",
-
   // "nav.browse.header": "All of Ada",
   "nav.browse.header": "Tudo no Ada",
 

@@ -36,7 +36,10 @@ nav.navbar {
 }
 
 .navbar-nav {
-  background-color: red;
+  background-color: #d9d9d9;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
   ::ng-deep a.nav-link {
     color: var(--ds-navbar-link-color);
   }

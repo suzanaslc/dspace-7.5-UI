@@ -3,10 +3,10 @@ import { EndUserAgreementComponent as BaseComponent } from '../../../../../app/i
 
 @Component({
   selector: 'ds-end-user-agreement',
-  // styleUrls: ['./end-user-agreement.component.scss'],
-  styleUrls: ['../../../../../app/info/end-user-agreement/end-user-agreement.component.scss'],
-  // templateUrl: './end-user-agreement.component.html'
-  templateUrl: '../../../../../app/info/end-user-agreement/end-user-agreement.component.html'
+  styleUrls: ['./end-user-agreement.component.scss'],
+  //styleUrls: ['../../../../../app/info/end-user-agreement/end-user-agreement.component.scss'],
+  templateUrl: './end-user-agreement.component.html'
+  //templateUrl: '../../../../../app/info/end-user-agreement/end-user-agreement.component.html'
 })
 
 /**
