@@ -14,4 +14,5 @@ import { slideMobileNav } from '../../../../app/shared/animations/slide';
   animations: [slideMobileNav]
 })
 export class NavbarComponent extends BaseComponent {
+  
 }

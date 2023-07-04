@@ -74,4 +74,67 @@
             }
         }
     }
+    
+    @media screen and (max-width: 768px) {
+        .footer{
+            margin: auto;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+        }
+        .footer_faeterj {
+            
+            .info {
+                display: none;
+            }
+            img {
+                width: 150px;
+                margin: auto;
+                
+            }
+
+            p {
+                font-size: 12px;
+                color: #1a4167;
+            }
+
+            a {
+                font-size: 10px;
+                color: #1a4167;
+
+            }
+
+        }
+        .logo_faeterj {
+            width: 150px;
+            height: auto;
+        }
+
+        .top-footer {
+            background-color: #fff;
+            padding: var(--ds-footer-padding);
+            
+        }
+
+        .bottom-footer {
+            ul {
+                li {
+                    display: inline-flex;
+
+                    a {
+                        padding: 0 calc(var(--bs-spacer) / 2);
+                        color: inherit
+                    }
+
+                    &:not(:last-child) {
+                        &:after {
+                            content: '';
+                            border-right: 1px var(--bs-secondary) solid;
+                        }
+
+                    }
+                }
+            }
+        }
+      }
 }

@@ -37,3 +37,8 @@ img {
     }
   }
 }
+@media (max-width: 768px) {
+  .thumbnail {
+    display: none;
+  }
+}
