@@ -6855,5 +6855,25 @@
 
   "register-page.registration.info.maildomain": "E-mails devem terminar em:",
   
+  "claimed-declined-search-result-list-element.title": "Item rejeitado",
 
+  "claimed-approved-search-result-list-element.title": "Item aprovado",
+  
+  "subscriptions.modal.new-subscription-form.type.content": "Escolha a frequência",
+  "subscriptions.modal.new-subscription-form.frequency.D": "Diária",
+  "subscriptions.modal.new-subscription-form.frequency.W": "Semanal",
+  "subscriptions.modal.new-subscription-form.frequency.M": "Mensal",
+  "subscriptions.modal.close": "Fechar",
+  "subscriptions.modal.new-subscription-form.submit": "Enviar", 
+  "subscriptions.modal.create.success": "Inscrição feita com sucesso",
+  "subscriptions.table.dso": "Inscrição",
+  "subscriptions.table.subscription_type": "Tipo",
+  "subscriptions.table.subscription_frequency": "Frequência",
+  "subscriptions.frequency.D": "Diária",
+  "subscriptions.frequency.W": "Semanal",
+  "subscriptions.frequency.M": "Mensal",
+  "subscriptions.table.action": "Ação",
+  "subscriptions.title": "Inscrições",
+  "register-page.registration.email.error.not-email-form": "Erro:",
+  "register-page.registration.email.error.not-valid-domain": "Domínio inválido",
 }
